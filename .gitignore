@@ -1,0 +1,33 @@
+#add github to ingore files
+*.ini
+*.conf
+
+#
+*.apk
+
+#some data files
+*.sql
+*.db3
+*.db*
+
+#
+data/
+
+#
+*.log
+
+
+*.swp
+
+*.pyc
+
+.idea/
+
+#add /reference/Opus11-1.0
+#!/reference/Opus11-1.0/
+/reference
+/vendor
+#composer usual generate composer.lock
+*.lock
+
+
